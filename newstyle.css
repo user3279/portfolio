@@ -1,9 +1,32 @@
+.h1{
+    text-align:left;
+    background-color:bisque ;
+    font-size:larger;
+    text-align:center;
+    text-shadow: gray;
+}
+
 #b1{
     background-color:darkslategray;
 }
 .c1{
-    background-color:
+    background-color:bisque;
    
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    
+}
+#s1{
+    font-style: oblique;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:larger;
+}
+#s2{
+    text-indent: ;
+    color: chocolate;
+}
+.container{
+    background-image: url(./images/contact.jpeg);
+}
+#d1{
+     font-family:cursive;
 }
